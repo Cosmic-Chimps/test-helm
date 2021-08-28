@@ -1,1 +1,14 @@
 apiVersion: v1
+entries:
+  ocpp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-28T18:09:04.46521136Z"
+    description: A Helm chart for Kubernetes
+    digest: 967fbb48c00719dcb5360ea2430ea0d0d66f942b0889e810aa7326f94d212d9d
+    name: ocpp
+    type: application
+    urls:
+    - https://Cosmic-Chimps.github.io/test-help/charts/ocpp-0.0.12.tgz
+    version: 0.0.12
+generated: "2021-08-28T18:09:04.464859355Z"
