@@ -9,6 +9,6 @@ entries:
     name: ocpp
     type: application
     urls:
-    - https://raw.githubusercontent.com/Cosmic-Chimps/test-help/charts/ocpp-0.0.12.tgz
+    - https://raw.githubusercontent.com/Cosmic-Chimps/test-helm/master/charts/ocpp-0.0.12.tgz
     version: 0.0.12
 generated: "2021-08-28T18:09:04.464859355Z"
