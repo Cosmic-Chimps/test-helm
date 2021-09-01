@@ -2,6 +2,20 @@ apiVersion: v1
 entries:
   ocpp:
   - apiVersion: v2
+    appVersion: 0.0.20
+    created: "2021-09-01T16:26:14.402602127Z"
+    description: A Helm chart for Kubernetes
+    digest: 8f5574a84b5feaf331e8b4f0b2285c25aac41bf24c37723015eda73bceed120d
+    home: https://github.com/ElectromapsSL/ocpp
+    icon: https://pbs.twimg.com/profile_images/1346477894533464066/C8gEbxou.png
+    name: ocpp
+    sources:
+    - https://github.com/ElectromapsSL/ocpp
+    type: application
+    urls:
+    - https://github.com/Cosmic-Chimps/emaps-apps-helm/charts/ocpp-0.0.20.tgz
+    version: 0.0.20
+  - apiVersion: v2
     appVersion: 0.0.19
     created: "2021-09-01T12:34:40.645785769Z"
     description: A Helm chart for Kubernetes
@@ -109,4 +123,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/Cosmic-Chimps/test-helm/master/charts/ocpp-0.0.12.tgz
     version: 0.0.12
-generated: "2021-09-01T12:34:40.645297966Z"
+generated: "2021-09-01T16:26:14.402195192Z"
